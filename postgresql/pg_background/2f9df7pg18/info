@@ -1,9 +1,0 @@
-Extension: pg_background
- git remote url: https://github.com/vibhorkum/pg_background
-
- git branch: master
-
-
- git commit hash: 2f9df79d8c46ae09b8c11c2b4dc3021ca6e33cc5
-
-PostgreSQL 18.0
